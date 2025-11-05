@@ -6,6 +6,13 @@ This is a Node.js application that scrapes news article URLs from a list of news
 
 This will be a TypeScript project. That connects to the NewsNexusDb09 database using the NewsNexusDb09 package. Instructions for connecting to the database are in the docs/DATABASE_OVERVIEW.md file.
 
+## env
+
+```
+NAME_DB=newsnexus09.db
+PATH_DATABASE=/Users/nick/Documents/_databases/NewsNexus09/
+```
+
 ## Run
 
 1. `npm run build`
